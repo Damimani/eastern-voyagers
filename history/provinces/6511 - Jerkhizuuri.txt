@@ -2,7 +2,7 @@ owner = E02
 controller = E02
 add_core = E02
 culture = aurorean_elf
-religion = umun_omi
+religion = ancient_elven_pantheon
 
 hre = no
 

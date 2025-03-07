@@ -2,7 +2,7 @@ owner = E00
 controller = E00
 add_core = E00
 culture = aurorean_elf
-religion = umun_omi
+religion = ancient_elven_pantheon
 
 hre = no
 
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 
-trade_goods = fish
+trade_goods = furs
 capital = ""
 
 is_city = yes
