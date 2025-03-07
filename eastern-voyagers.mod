@@ -7,5 +7,5 @@ dependencies={
 	"Anbennar-PublicFork"
 }
 name="Anbennar: Eastern Voyagers"
-supported_version="1.37.5"
+supported_version="1.37.5.0"
 path="mod/eastern-voyagers"
