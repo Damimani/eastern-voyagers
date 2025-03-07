@@ -1,4 +1,8 @@
 # No previous file for Jerkhizuuri
+
+#owner = 
+#controller = 
+#add_core = 
 culture = aurorean_elf
 religion = umun_omi
 capital = ""
