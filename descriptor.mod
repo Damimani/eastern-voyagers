@@ -3,7 +3,7 @@ tags={
 	"Gameplay"
 }
 dependencies={
-	"Anbennar: A Fantasy Total Conversion Mod"
+	"Anbennar: A Fantasy Total Conversion"
 	"Anbennar-PublicFork"
 }
 name="Anbennar: Eastern Voyagers"
