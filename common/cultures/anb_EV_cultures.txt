@@ -11,7 +11,7 @@
 elven = {
 	graphical_culture = elvengfx
 	aurorean_elf = {
-		primary = E00 #Moonhaven
+		primary = E00 
 	}
 	moon_elf = {
 		primary = A31 #Moonhaven

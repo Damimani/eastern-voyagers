@@ -1,11 +1,8 @@
-# No previous file for Jerkhazuura
-
-#owner = E00
-#controller = E00
-#add_core = E00
+owner = E02
+controller = E02
+add_core = E02
 culture = aurorean_elf
 religion = umun_omi
-capital = ""
 
 hre = no
 
@@ -14,7 +11,6 @@ base_production = 4
 base_manpower = 4
 
 trade_goods = fish
+capital = ""
 
-native_size = 0
-native_ferocity = 0
-native_hostileness = 0
+is_city = yes

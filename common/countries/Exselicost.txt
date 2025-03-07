@@ -1,0 +1,46 @@
+  
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 223 169 127 }
+
+historical_idea_groups = { # make these up later
+	exploration_ideas
+	maritime_ideas
+	economic_ideas
+	offensive_ideas
+	expansion_ideas
+	quality_ideas	
+	administrative_ideas	
+	influence_ideas
+}
+
+historical_units = {
+
+}
+
+monarch_names = { # make these up later
+	"Alin #0" = 10
+	
+	"Hojo #0" = -1
+}
+
+leader_names = {# make these up later
+	Bagaatun Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru Heseri Guwalgiya Tunggiya Hata 
+	Hoifa Mangulun Duge Khorints Tabangut Sartul Daur Bhengudun Bulagat Ekhirit Khongodor
+}
+
+ship_names = {# make these up later
+	Mudi Sooli Tiaza Tai Naigh Zengo Cuug Khon Khiilh Shoon Shaak Barch Ariik Angek Gongek Chukon Arek Zhad Zhun Duzuu Zir Guwaad Tolon Dengan Beiig
+	Joolgin Hezii Aarch Tosar Tolg Shuusk Daak Nuk Noozg Donjuul Gulzii Daal Daar Zor Daag Gorgon Goontum Gaam Zhaai Inghaan Kaasheg Tuii Run Shuvun
+	Tsarai Rush Nuugdan Kusheng
+}
+
+army_names = {
+	"$PROVINCE$ Army"
+}
+
+fleet_names = {
+	"$PROVINCE$ Fleet"
+}
