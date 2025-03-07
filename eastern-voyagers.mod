@@ -4,8 +4,7 @@ tags={
 }
 dependencies={
 	"Anbennar: A Fantasy Total Conversion Mod"
-	"Anbennar-PublicFork"
 }
 name="Anbennar: Eastern Voyagers"
-supported_version="1.37.5.0"
-path="mod/eastern-voyagers"
+supported_version="1.37.*"
+path="C:/Users/Fishe/Documents/Paradox Interactive/Europa Universalis IV/mod/eastern-voyagers"
