@@ -3,7 +3,7 @@ tags={
 	"Gameplay"
 }
 dependencies={
-	"Anbennar: A Fantasy Total Conversion Mod"
+	"Anbennar: A Fantasy Total Conversion"
 }
 name="Anbennar: Eastern Voyagers"
 supported_version="1.37.*"
