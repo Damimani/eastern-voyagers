@@ -3138,7 +3138,7 @@ elven = {
 	
 			god_life = {
 				global_unrest = -3
-				harsh_treatment_cost = -0.25
+				global_tax_modifier = 0.05
 				
 				visible = {
 					always = yes
