@@ -1,3 +1,3 @@
-E00 = "countries/Exselicost.txt"
-E01 = "countries/Ioreavar.txt"
-E02 = "countries/Cetanadhan.txt"
+M30 = "countries/Exselicost.txt"
+M31 = "countries/Ioreavar.txt"
+M32 = "countries/Cetanadhan.txt"

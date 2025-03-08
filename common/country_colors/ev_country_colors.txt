@@ -15,7 +15,17 @@
 
 
 #Iron Sceptre
-E00 = {
+M30 = {
+    color1= { 252 232 125 }  #yellow
+    color2= { 49 108 179 }  #blue
+    color3= { 193 216 224 }  #silver
+}
+M31 = {
+    color1= { 252 232 125 }  #yellow
+    color2= { 49 108 179 }  #blue
+    color3= { 193 216 224 }  #silver
+}
+M32 = {
     color1= { 252 232 125 }  #yellow
     color2= { 49 108 179 }  #blue
     color3= { 193 216 224 }  #silver

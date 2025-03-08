@@ -2279,7 +2279,7 @@ giantkind = {
 elven = {
 	graphical_culture = elvengfx
 	aurorean_elf = {
-		primary = E00 
+		primary = M30 
 	}
 	moon_elf = {
 		primary = A31 #Moonhaven

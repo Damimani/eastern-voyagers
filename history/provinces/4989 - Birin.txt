@@ -1,6 +1,6 @@
-owner = E01
-controller = E01
-add_core = E01
+owner = M31
+controller = M31
+add_core = M31
 culture = aurorean_elf
 religion = ancient_elven_pantheon
 
