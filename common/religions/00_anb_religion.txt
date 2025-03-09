@@ -3079,7 +3079,7 @@ elven = {
 
 			god_war = {
 				discipline = 0.1
-				yearly_army_professionalism = 0.06
+				drill_decay_modifier = -0.2
 				
 				allow = {
 					always = yes
@@ -3121,7 +3121,7 @@ elven = {
 
 			god_crafts = {
 				development_cost = -0.10
-				build_cost = -0.15
+				production_efficiency = 0.05
 				
 				allow = {
 					always = yes
