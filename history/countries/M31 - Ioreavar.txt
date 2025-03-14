@@ -6,3 +6,16 @@ primary_culture = aurorean_elf
 religion = ancient_elven_pantheon
 technology_group = tech_aurorean_elven
 capital = 4990
+1439.2.4 = {
+	monarch = {
+		name = "Vionnial 'the Hunter'"
+		dynasty = "Leavánel"
+		birth_date = 1200.9.3
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	
+	add_ruler_personality = righteous_personality
+	set_ruler_flag = long_lived_ruler
+}

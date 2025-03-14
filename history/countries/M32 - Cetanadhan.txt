@@ -6,3 +6,16 @@ primary_culture = aurorean_elf
 religion = ancient_elven_pantheon 
 technology_group = tech_aurorean_elven
 capital = 6511
+1439.2.4 = {
+	monarch = {
+		name = "Oshían"
+		dynasty = "Morcachdaoite"
+		birth_date = 1165.7.2
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+	
+	add_ruler_personality = tolerant_personality
+	set_ruler_flag = long_lived_ruler
+}
