@@ -1,6 +1,6 @@
 4988="Ioréavar"
 4989="Nielluan"
-4990="Excelicóst"
+4990="Exselicóst"
 4992="Camarca"
 6511="Cétanadhan"
 6512="Riaraire"
