@@ -7,4 +7,4 @@ dependencies={
 }
 name="Anbennar: Eastern Voyagers"
 supported_version="1.37.*"
-path="C:/Users/Fishe/Documents/Paradox Interactive/Europa Universalis IV/mod/eastern-voyagers"
+path="mod/eastern-voyagers"
